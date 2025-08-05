@@ -10,7 +10,7 @@ Conjunto de ejercicios para mis alumnos de Cero Virtual para que puedan practica
 
 ## Caracteristicas
 
-- Conecptos Básicos
+- Conceptos Básicos
 - Programación Orientada a Objetos (POO)
 - Manejo de Errores
 - Formularios
